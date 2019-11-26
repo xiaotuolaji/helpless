@@ -1,4 +1,4 @@
-var body = $response.body;
-body = '\/*\n@supported 你的QuantumultX设备ID填这里\n*\/\n' + body;
+Evar body = $response.body;
+body = '\/*\n@supported CF9E61D1BC67\n*\/\n' + body;
 
 $done(body);
